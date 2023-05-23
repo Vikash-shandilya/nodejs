@@ -3,4 +3,4 @@ const handler = require("./routes");
 
 const server = http.createServer(handler);
 
-server.listen(4000);
+server.listen(6000);
